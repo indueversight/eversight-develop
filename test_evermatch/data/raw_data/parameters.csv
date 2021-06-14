@@ -1,0 +1,10 @@
+Parameter,Value
+Request Coverage,Flexible with alternative options
+Num. of Assignments,Up to three tissues per request_df
+Requirement Satisfaction,Relax scored requirements
+Cell Count Max Violation,20%
+Age Range Max Violation,5%
+Death to Recovery Max Violation,5%
+Death to Surgery Max Violation,5%
+Death to Cooling Max Violation,5%
+Reward Type,Dynamic Reward
